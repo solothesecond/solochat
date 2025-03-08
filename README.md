@@ -1,4 +1,4 @@
-<img src="public/vistachat.png" alt="Vistachat" width="300"/>
+<img src="public/soloicon.png" alt="SoloChat" width="300"/>
 
 Vistachat is a chatroom website, with the design heavily inspired by Windows Vista, literally the best windows version ever
 
@@ -26,10 +26,7 @@ After doing these steps, you're all ready to use vistachat! :D
 
 ## Credits
 
-- **Developer**: [Szvy](https://szvy.win/) - really cool developer that made this.
-- **Developer**: [Sky](https://skys.day) - helped out a lot with patching xss.
-- **Libraries Used**: 
-  - [Socket.IO](https://socket.io/) - really cool nodejs library that lets you have live time chatting.
+- **Developer**: [Solo](https://guns.lol/thesolo/) - really cool developer that made this.
 
 ## Contributing
 
